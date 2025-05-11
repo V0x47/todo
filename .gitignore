@@ -1,0 +1,4 @@
+rust/todo/target
+rust/todo/tasks.csv
+c/todo/.cache/clangd/index
+rust/todo/tasks.csv
